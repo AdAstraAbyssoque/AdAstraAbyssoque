@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdAstraAbyssoque
 - 👀 I’m interested in DSA
-- 🌱 I’m currently learning Python and C plus, as well as Linux
+- 🌱 I’m currently learning Python and C Plus Plus, as well as Linux
 - 💞️ I’m looking to collaborate on Undergraduate programs
 - 📫 How to reach me bliu699@outlook.com
 

@@ -10,8 +10,8 @@ My research interests focus on the intersection of large language models (LLMs) 
 - Applications of LLMs in combinatorial optimization and planning problems  
 
 Feel free to reach out via email: [bliu690@connect.hkust-gz.edu.cn](mailto:bliu690@connect.hkust-gz.edu.cn)  
-- ORCID: [View my profile](https://orcid.org/) (link to be added if available)  
-- Google Scholar: [View my publications](https://scholar.google.com/) (link to be added if available)  
+- ORCID: [View my profile](https://orcid.org/) 
+- Google Scholar: [View my publications](https://scholar.google.com/) 
 - Technical Blog: [RainCedar's Blog](https://adastraabyssoque.github.io/) (sharing insights on programming, algorithms, and machine learning)  
 
 ---

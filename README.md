@@ -1,5 +1,5 @@
 # Hi, I’m Bowen  
-A second-year undergraduate student at **The Hong Kong University of Science and Technology (Guangzhou)** (HKUST(GZ)), majoring in Data Science and Analytics.  
+A third-year undergraduate student at **The Hong Kong University of Science and Technology (Guangzhou)** (HKUST(GZ)), majoring in Data Science and Analytics.  
 
 ---
 
